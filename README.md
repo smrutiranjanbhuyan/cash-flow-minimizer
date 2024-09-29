@@ -23,7 +23,7 @@
 Install the package via npm:
 
 ```bash
-npm install cash-flow-minimizer
+npm install  debt-credit-balancer
 ```
 
 ## Usage
@@ -35,7 +35,7 @@ You can use the Cash Flow Minimizer by importing it into your Node.js project. T
 Here is a simple example to get you started:
 
 ```javascript
-const CashFlowMinimizer = require('cash-flow-minimizer');
+const CashFlowMinimizer = require('debt-credit-balancer');
 
 const transactions = [
     ['A', 'B', 100],
