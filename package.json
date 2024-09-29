@@ -1,6 +1,6 @@
 {
-  "name": "cash-flow-minimizer",
-  "version": "1.0.0",
+  "name": "debt-credit-balancer",
+  "version": "1.0.5",
   "description": "A utility to minimize cash flow between debtors and creditors",
   "main": "index.js",
   "scripts": {
