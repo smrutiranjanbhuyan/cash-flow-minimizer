@@ -1,0 +1,20 @@
+{
+  "name": "cash-flow-minimizer",
+  "version": "1.0.0",
+  "description": "A utility to minimize cash flow between debtors and creditors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smrutiranjanbhuyan/cash-flow-minimizer.git"
+  },
+  "keywords": ["cash", "flow", "minimizer", "finance"],
+  "author": "Your Name",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smrutiranjanbhuyan/cash-flow-minimizer/issues"
+  },
+  "homepage": "https://github.com/smrutiranjanbhuyan/cash-flow-minimizer#readme"
+}
